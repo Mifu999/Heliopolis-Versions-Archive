@@ -1,6 +1,6 @@
 # Heliopolis Versions Archive
 
-Archive of the different versions of the Heliopolis project (ID: 136530685). This repository contains the backup history (v1 to v5), split into two formats: raw files (`.gmd`) and text-based level data (`.txt`).
+[GD] Archive of the different versions of the level Heliopolis (ID: 136530685). This repository contains the backup history, split into two formats: raw files (.gmd) and text-based level data (.txt).
 
 ## Folder Structure
 
